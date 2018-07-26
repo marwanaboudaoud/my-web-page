@@ -1,0 +1,131 @@
+body {
+    background-color:rgb(215,208,200)
+  }
+  
+  h1 {
+    text-align:center;
+    font-size:80px;
+    background-color:black;
+    color:white;
+    font-family:fantasy;
+  }
+  
+  h2{
+    background-color:#9999ff;
+    color:black;
+    font-size:33px;
+    font-style:italic
+  }
+  
+  h3{
+    background-color:#9999ff;
+    color:black;
+    font-size:25px
+  }
+  
+  p {
+    line-height:29px;  
+  }
+  
+  table{
+    font-size:20px;
+    text-align:center;
+    line-height:23px;
+    width:90%;
+  }
+  
+  #films{
+    padding:15px;
+    border:6px ridge black;
+  }
+  
+  span {
+    color:red;
+    font-weight:bold;
+    font-style:italic;
+  }
+  
+  a:hover {
+      color: red;
+  }
+  
+  ol {
+    line-height:40px;
+    background-color:black;
+    font-size:20px;
+  }
+  
+  ul {
+    background-color:rgb(179,181,186);
+    width:90%;
+    height:150px;
+    overflow:auto;
+    margin:30px 0px 10px 30px;
+    font-size:20px;
+  }
+  
+  .about{
+    border:3.5px solid gray;
+    font-size:20px;
+    padding:10px;
+    background-color:rgb(179,181,186)
+  }
+  
+  .life1{
+    border:3.5px solid gray;
+    color:black;
+    text-align:center;
+    padding-top:30px;
+    padding-bottom:10px;
+    font-size:20px;
+    background-color:rgb(179,181,186);
+    overflow:auto;
+    
+    }
+  
+  #photo1 {
+    margin-left:1190px;
+    margin-bottom:-180px
+  }
+  
+  .img1{
+    float:right;
+    width:270px;
+    padding-left:10px;
+  }
+  
+  .img2{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 40%;
+      padding:10px;
+  }
+  .img3{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 40%;
+      padding:10px;
+  }
+  
+  .img4{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 40%;
+      padding:10px;
+  }
+  
+  
+  .img-container1 {
+      float: left;
+      width: 40%;
+      padding: 6px;
+  }
+  .img-container2 {
+      float: right;
+      width: 40%;
+      padding: 6px;
+  }
+  
